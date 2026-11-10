@@ -147,3 +147,7 @@ TSI/
 ├── ollama_embeddings.py   # script que gera e exibe o embedding
 └── README.md              # este arquivo
 ```
+
+## Outros projetos deste repositório
+
+- [`rag_lei_14133/`](rag_lei_14133/): perguntas e respostas sobre a Lei nº 14.133/2021 (Licitações e Contratos) com LangChain, FAISS e RetrievalQA, usando embeddings e LLM locais do Ollama.

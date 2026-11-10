@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+faiss_index/
+data/
+
+# Arquivos locais fora do repositório
+agenda.py
+Texto.txt
+demo_embeddings.mp4
